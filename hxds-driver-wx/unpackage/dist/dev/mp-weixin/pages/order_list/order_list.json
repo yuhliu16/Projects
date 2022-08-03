@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-rate": "/uview-ui/components/u-rate/u-rate",
+    "u-top-tips": "/uview-ui/components/u-top-tips/u-top-tips"
+  }
+}

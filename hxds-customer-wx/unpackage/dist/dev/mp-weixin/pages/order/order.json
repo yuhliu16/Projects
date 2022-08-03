@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "代驾账单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-top-tips": "/uview-ui/components/u-top-tips/u-top-tips"
+  }
+}
